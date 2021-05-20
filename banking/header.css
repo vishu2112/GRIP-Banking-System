@@ -1,0 +1,37 @@
+		.header{
+			margin:0px;
+		}
+		.section{
+			margin:10px;
+		}
+		footer p{
+			background-color:#5D5C61;
+			text-align:center;
+			color:white;
+			padding:10px;
+			margin:auto;
+		}
+		ul {
+			list-style-type: none;
+			margin: 0px;
+			padding: 0px;
+			overflow: hidden;
+			background-color: #5D5C61;
+		}
+		li {
+			float: right;
+		}
+		li a {
+			display: block;
+			color: white;
+			font-size:20px;
+			text-align: center;
+			padding: 20px 50px;
+			text-decoration: none;
+			font-family:Courier;
+		}
+		li a:hover {
+			background-color: #fff;
+			color:#111;
+		}
+		
